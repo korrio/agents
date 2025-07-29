@@ -1,3 +1,7 @@
+# korrio's opinion
+
+This repo is a good-start but not the things that is ready to use. But it is eyes-opening for your vibe coding experience. Believe me that less agents, less headache.
+
 # Contains Studio AI Agents
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
